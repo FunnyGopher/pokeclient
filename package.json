@@ -15,8 +15,7 @@
   "bugs": {
     "url": "https://github.com/FunnyGopher/pokeclient/issues"
   },
-  "homepage": "https://github.com/FunnyGopher/pokeclient#readme"
-
+  "homepage": "https://github.com/FunnyGopher/pokeclient#readme",
   "private": true,
   "engines": {
     "node": ">=0.12.0"
