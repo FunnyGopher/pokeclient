@@ -1,0 +1,19 @@
+{
+  "name": "pokeclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FunnyGopher/pokeclient.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FunnyGopher/pokeclient/issues"
+  },
+  "homepage": "https://github.com/FunnyGopher/pokeclient#readme"
+}
