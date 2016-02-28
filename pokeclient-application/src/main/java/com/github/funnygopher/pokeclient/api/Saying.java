@@ -1,4 +1,4 @@
-package com.github.funnygopher.api;
+package com.github.funnygopher.pokeclient.api;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import org.hibernate.validator.constraints.Length;

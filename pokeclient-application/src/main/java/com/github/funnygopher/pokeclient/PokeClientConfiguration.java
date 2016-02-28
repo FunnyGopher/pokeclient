@@ -1,16 +1,16 @@
-package com.github.funnygopher;
+package com.github.funnygopher.pokeclient;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.dropwizard.Configuration;
 import org.hibernate.validator.constraints.NotEmpty;
 
-public class HelloWorldConfiguration extends Configuration {
+public class PokeClientConfiguration extends Configuration {
 
     @NotEmpty
     private String template;
 
     @NotEmpty
-    private String defaultName = "Stranger";
+    private String defaultName = "Trainer";
 
     @JsonProperty
     public String getTemplate() {

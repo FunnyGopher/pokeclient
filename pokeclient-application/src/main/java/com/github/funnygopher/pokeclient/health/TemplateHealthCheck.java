@@ -1,4 +1,4 @@
-package com.github.funnygopher.health;
+package com.github.funnygopher.pokeclient.health;
 
 import com.codahale.metrics.health.HealthCheck;
 
