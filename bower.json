@@ -1,8 +1,25 @@
 {
   "name": "pokeclient",
+  "description": "It hurt itself in its confusion!",
+  "main": "index.html",
+  "authors": [
+    "FunnyGopher",
+    "Jackkell",
+    "ThatOneGuyThatName",
+    "Reline"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/FunnyGopher/pokeclient#readme",
   "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
   "dependencies": {
-    "jquery": "~2.1.1",
-    "bootstrap": "^3.3.6"
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.4"
   }
 }
